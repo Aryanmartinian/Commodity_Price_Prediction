@@ -11,4 +11,5 @@ The machine learning models which are used in this API are -
 2. Gold Price Prediction - Random Forest Regressor
 3. Car Price Prediction - Lasso Regression
 
-![HackHound Member Confirmation](https://github.com/user-attachments/assets/81247402-150a-4061-b7df-6b6344068053)
+
+![Commodity_1](https://github.com/user-attachments/assets/ae69b5b2-eebf-4bb5-a551-6da7715936ad)
